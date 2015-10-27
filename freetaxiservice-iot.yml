@@ -1,2 +1,5 @@
-gemfire_serverhost: 10.1.1.1
+spring:
+  profiles: pcf
+
+gemfire_serverhost: 20.2.2.2
 gemfire_serverport: 80
