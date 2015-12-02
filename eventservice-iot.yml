@@ -3,3 +3,4 @@ spring:
 
 gemfire_serverhost: 20.2.2.2
 gemfire_serverport: 80
+gemfire_test: 2.2.2.2
