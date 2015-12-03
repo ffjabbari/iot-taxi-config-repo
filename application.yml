@@ -3,3 +3,6 @@ spring:
 
 gemfire_serverhost: 52.77.252.90
 gemfire_serverport: 40404
+db_url: jdbc:postgresql://54.169.194.30:10432/gpadmin
+db_username: gpadmin
+db_password: gpadmin
