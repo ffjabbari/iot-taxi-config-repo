@@ -1,4 +1,5 @@
-gemfire_serverhost: 10.1.1.1
-gemfire_serverport: 80
-gemfire_test: 1.1.1.1
-greeting: hello
+spring:
+  profiles: pcf
+
+gemfire_serverhost: 52.77.252.90
+gemfire_serverport: 40404
