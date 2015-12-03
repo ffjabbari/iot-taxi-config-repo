@@ -1,2 +1,4 @@
 configuration:
   projectName: Spring Cloud
+
+greeting: hello
