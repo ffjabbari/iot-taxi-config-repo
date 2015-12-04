@@ -1,5 +1,0 @@
-spring:
-  profiles: pcf
-
-gemfire_serverhost: 52.77.252.90
-gemfire_serverport: 40404
