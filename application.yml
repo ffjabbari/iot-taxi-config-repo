@@ -1,8 +1,8 @@
 spring:
   profiles: pcf
 
-gemfire_serverhost: 52.77.234.129
+gemfire_serverhost: 52.77.234.67
 gemfire_serverport: 40404
-db_url: jdbc:postgresql://52.77.234.129:10432/gpadmin
+db_url: jdbc:postgresql://52.77.234.67:10432/gpadmin
 db_username: gpadmin
 db_password: gpadmin
