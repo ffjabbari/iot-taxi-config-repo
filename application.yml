@@ -6,6 +6,6 @@ gemfire_serverport: 40404
 db_url: jdbc:postgresql://54.169.252.226:10432/gpadmin
 db_username: gpadmin
 db_password: gpadmin
-redis_host: redis.local.pcfdev.io
-redis_port: 35458
-redis_password: f5fa6412-4417-4fab-b488-14e8a6454a29
+redis_host: redis.local2.pcfdev.io
+redis_port: 40829
+redis_password: ed4c3e65-d092-4e3a-a37d-07e4589f7f86
